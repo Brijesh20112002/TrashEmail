@@ -15,7 +15,7 @@
  <a target="_blank" href="https://twitter.com/intent/tweet?text=TrashEmail%20is%20open%20source%20extremely%20privacy%20focused%20disposable%2Fsemi-permanent%20email%20bot%20solution%20for%20telegram.%20By%20@sec_r0,%20%20Do%20check%20this%20out.&url=https%3A%2F%2Fgithub.com%2FTrashEmail%2FTrashEmail%2F&hashtags=privacy,osint,temp_mail,disposable_mail,telegram_bot" title="Share on Twitter"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Share%20on%20Twitter"></a>
 
 
-### tl;dr
+###
 TrashEmail is hosted Telegram bot that can save your private email address by offering disposable email address. It can create, manage, disposable email address and link them with your telegram bot chat. 
 - **Where is the bot?** - [@trashemail_bot](https://t.me/trashemail_bot)
 - **How can I create dispoable mail id?** - Decide a username & ask the bot :smile:
